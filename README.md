@@ -16,6 +16,6 @@ Praticar conceitos de:
 
 ---
 
-#ALUNOS:
-#Bolivar Torres Neto
-#Rondineli Bitencourt Junior
+ALUNOS:
+- Bolivar Torres Neto
+- Rondineli Bitencourt Junior
