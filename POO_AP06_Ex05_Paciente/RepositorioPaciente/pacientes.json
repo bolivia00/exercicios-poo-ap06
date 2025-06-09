@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "d5c710d3-2c85-4539-87ff-b004e41683bc",
+    "NomeCompleto": "Jo\u00E3o da Silva",
+    "DataNascimento": "1985-04-20T00:00:00",
+    "ContatoEmergencia": "9999-9999"
+  },
+  {
+    "Id": "5771d44f-1692-4868-80bc-ce95c950fb4e",
+    "NomeCompleto": "Maria Oliveira",
+    "DataNascimento": "2000-10-15T00:00:00",
+    "ContatoEmergencia": "9888-8888"
+  }
+]

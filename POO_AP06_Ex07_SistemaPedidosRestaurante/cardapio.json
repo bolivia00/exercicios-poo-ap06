@@ -1,0 +1,18 @@
+[
+  {
+    "$tipo": "prato",
+    "DescricaoDetalhada": "Feijoada completa com acompanhamentos.",
+    "Vegetariano": false,
+    "Id": "d89f6cea-fe10-459c-acbb-b6a430d1a0d8",
+    "NomeItem": "Feijoada",
+    "Preco": 30.00
+  },
+  {
+    "$tipo": "bebida",
+    "VolumeMl": 300,
+    "Alcoolica": false,
+    "Id": "cd003d50-ca63-4901-acc5-b4f77279bd03",
+    "NomeItem": "Suco de Laranja",
+    "Preco": 8.00
+  }
+]

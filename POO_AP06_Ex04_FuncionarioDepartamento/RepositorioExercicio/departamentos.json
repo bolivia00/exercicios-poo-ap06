@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "72fee87d-6bb9-4f03-b54f-e24e8830aff2",
+    "NomeDepartamento": "Tecnologia da Informa\u00E7\u00E3o",
+    "Sigla": "TI"
+  },
+  {
+    "Id": "25883c29-4140-4f15-a800-18d92fc26350",
+    "NomeDepartamento": "Recursos Humanos",
+    "Sigla": "RH"
+  }
+]

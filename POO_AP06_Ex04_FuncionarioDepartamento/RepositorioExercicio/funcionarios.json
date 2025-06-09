@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "6268b32f-c5a9-4998-b3c4-e932623b1b27",
+    "NomeCompleto": "Jo\u00E3o Silva",
+    "Cargo": "Desenvolvedor",
+    "DepartamentoId": "72fee87d-6bb9-4f03-b54f-e24e8830aff2"
+  },
+  {
+    "Id": "162756c8-2211-4efb-bfc9-2314fe35ac72",
+    "NomeCompleto": "Maria Souza",
+    "Cargo": "Analista RH",
+    "DepartamentoId": "25883c29-4140-4f15-a800-18d92fc26350"
+  }
+]
